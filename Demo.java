@@ -1,5 +1,5 @@
 public class Demo {
 	public static void mian(String[] args) {
-		System.out.println("Hello Ares!");
+		System.out.println("Current Date:" + new java.util.Date());
 	}
 }

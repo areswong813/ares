@@ -1,5 +1,5 @@
 public class Hello {
 	public static void mian(String[] args) {
-		System.out.println("Hello www.ares.cn!");
+		System.out.println("Hello Worlddddd!");
 	}
 }
